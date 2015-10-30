@@ -1,3 +1,4 @@
+#Concordo.
 require 'gosu'
 require_relative 'cell'
 
